@@ -1,0 +1,53 @@
+body{
+    font-family:'Merriweather', serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.highlight{
+    color: orangered;
+    padding-left: 30px;
+}
+.colour{
+    color: rgb(40, 102, 102);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 70%;
+}
+.topsite{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    height:  500px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: rgb(248, 248, 248);
+    font-weight: 800px;
+}
+.midsite{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px;
+}
+
+.methon{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 8%;
+}
+.methon img{
+    width: 70%;
+}

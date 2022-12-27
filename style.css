@@ -50,7 +50,6 @@ h1{
     margin-left: 2%;
     padding-left: 8%;
 }
-<<<<<<< HEAD
 
 .half-width1{
     width: 40%;
@@ -60,13 +59,6 @@ h1{
     padding-left: 3%;
     box-shadow: 10px 10px 40px gray;
 
-=======
-.box{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
-    height: 80%;
-    
->>>>>>> 93ff6408ccddd8ab0aa3b3bf6eaec8165cad1991
 }
 .overflow{
     width: 650px;

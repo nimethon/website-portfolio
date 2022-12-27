@@ -48,19 +48,39 @@ h1{
     margin-left: 2%;
     padding-left: 8%;
 }
-.box{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
-    height: 70%;
+
+.half-width1{
     width: 40%;
-    box-align: center;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3.5%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+
 }
 .overflow{
+    width: 650px;
+    height: 200px;
+    padding-left: 8%;
     overflow: scroll;
 }
+
 .lastsite{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     height: 500px;
 }
+#Full-Stack{
+   border-left: 8px solid;
+   border-image: linear-gradient(rgb(9, 24, 236),rgb(202, 20, 147));
+   border-image-slice: 1;
+}
+#puchka{
+border-left: 8px solid;
+   border-image: linear-gradient(lightsalmon,tomato);
+   border-image-slice: 1; }
+   footer p{
+    text-align: center;
+    font-size: 13px;
+   }
